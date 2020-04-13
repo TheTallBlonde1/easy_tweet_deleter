@@ -11,7 +11,7 @@ A simple app to delete tweets from a twitter account
 2. API access tokens for your twitter account from https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens.  This contains 2 more API keys:
     - access_key
     - access_secret
-    - 
+
 # Instructions:
 
 Easy Tweet Deleter contains 2 functions to check and to delete tweets, both require the same 6 parameters.
