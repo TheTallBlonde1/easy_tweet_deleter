@@ -7,7 +7,7 @@ from distutils.core import setup
 setup(
   name = 'easy_tweet_deleter',
   packages = ['easy_tweet_deleter'],
-  version = '0.0.1',
+  version = '0.0.2',
   license='MIT',
   description = 'A simple app to delete tweets',
     long_description=long_description,
