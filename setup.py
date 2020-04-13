@@ -15,7 +15,7 @@ setup(
   author = 'Stefan Selby',
   author_email = 'stefanselby@gmail.com', 
   url = 'https://github.com/TheTallBlonde1/easy_tweet_deleter', 
-  download_url = 'https://github.com/TheTallBlonde1/easy_tweet_deleter/archive/v_0_0_1.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/TheTallBlonde1/easy_tweet_deleter/archive/v_0_0_2.tar.gz',    # I explain this later on
   keywords = ['DELETE', 'TWEETS', 'TWITTER'],
   install_requires=[
     'python-twitter',
