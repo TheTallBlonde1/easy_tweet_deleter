@@ -1,11 +1,17 @@
-from distutils.core import setup
+import setuptools
 
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+
+from distutils.core import setup
 setup(
   name = 'easy_tweet_deleter',
   packages = ['easy_tweet_deleter'],
   version = '0.0.1',
   license='MIT',
   description = 'A simple app to delete tweets',
+    long_description=long_description,
+    long_description_content_type="text/markdown",
   author = 'Stefan Selby',
   author_email = 'stefanselby@gmail.com', 
   url = 'https://github.com/TheTallBlonde1/easy_tweet_deleter', 
